@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Monograma minimalista "A" en marfil sobre transparente -->
+    <path
+        android:pathData="M54,34 L74,74 L66,74 L61.5,64 L46.5,64 L42,74 L34,74 Z M54,46 L48.5,58 L59.5,58 Z"
+        android:fillColor="#FDFBF7" />
+</vector>

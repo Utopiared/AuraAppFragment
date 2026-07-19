@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuraApp</string>
+
+    <!-- Brand / Editorial headlines -->
+    <string name="brand_title">Radiante y Bella</string>
+    <string name="brand_subtitle">PERSONAL STYLE CONSULTING</string>
+    <string name="login_headline">SIGN IN</string>
+    <string name="welcome_headline">WELCOME</string>
+
+    <!-- Login -->
+    <string name="label_email">Email address</string>
+    <string name="placeholder_email">you@email.com</string>
+    <string name="label_password">Password</string>
+    <string name="placeholder_password">Enter your password</string>
+    <string name="cd_toggle_password_visibility">Show or hide password</string>
+    <string name="button_login">SIGN IN</string>
+
+    <!-- Validation -->
+    <string name="error_empty_fields">Please fill in all fields.</string>
+    <string name="error_invalid_email">The email format is not valid.</string>
+    <string name="error_invalid_credentials">Incorrect username or password.</string>
+
+    <!-- Welcome -->
+    <string name="welcome_message">Welcome to your personalized style experience.</string>
+    <string name="welcome_message_personalized">Welcome, %1$s</string>
+    <string name="welcome_description">Our AI assistant analyzes your silhouette, skin tone and preferences to recommend garments, accessories and hairstyles tailored to your identity. Scan, discover and transform your style with haute couture precision.</string>
+    <string name="cd_scan_frame">Garment and hairstyle scan viewfinder</string>
+</resources>

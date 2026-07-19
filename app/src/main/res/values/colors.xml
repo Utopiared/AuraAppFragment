@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta minimalista de alta costura -->
+    <color name="black_matte">#121212</color>
+    <color name="ivory_soft">#FDFBF7</color>
+    <color name="graphite_gray">#1C1C1E</color>
+    <color name="satin_gold">#D4AF37</color>
+    <color name="satin_red">#8A010E</color>
+    <color name="satin_ping">#F29696</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error_red">#B00020</color>
+    <color name="nombre_solo">#A41313</color>
+</resources>

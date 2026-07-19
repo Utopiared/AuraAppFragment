@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Visor de escaneo estilo "editorial de moda":
+  Cuatro esquinas de un marco de escaneo, dibujadas como trazos finos
+  en Oro Satinado (#D4AF37) sobre un lienzo cuadrado de 240x240dp.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+
+    <!-- Esquina superior izquierda -->
+    <path
+        android:pathData="M 10,60 L 10,20 Q 10,10 20,10 L 60,10"
+        android:strokeColor="#9B0218"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Esquina superior derecha -->
+    <path
+        android:pathData="M 180,10 L 220,10 Q 230,10 230,20 L 230,60"
+        android:strokeColor="#A60404"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Esquina inferior izquierda -->
+    <path
+        android:pathData="M 10,180 L 10,220 Q 10,230 20,230 L 60,230"
+        android:strokeColor="#99030F"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Esquina inferior derecha -->
+    <path
+        android:pathData="M 230,180 L 230,220 Q 230,230 220,230 L 180,230"
+        android:strokeColor="#900000"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Línea central sutil de escaneo -->
+    <path
+        android:pathData="M 30,120 L 210,120"
+        android:strokeColor="#8C050D"
+        android:strokeWidth="1"
+        android:strokeAlpha="0.35"
+        android:fillColor="#00000000" />
+</vector>

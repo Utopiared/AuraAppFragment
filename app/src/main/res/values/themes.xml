@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.AtelierAI" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/satin_gold</item>
+        <item name="colorOnPrimary">@color/black_matte</item>
+        <item name="colorSurface">@color/black_matte</item>
+        <item name="colorOnSurface">@color/satin_red</item>
+        <item name="colorSurfaceVariant">@color/graphite_gray</item>
+        <item name="colorOnSurfaceVariant">@color/ivory_soft</item>
+        <item name="android:windowBackground">@color/satin_red</item>
+        <item name="android:statusBarColor">@color/satin_gold</item>
+        <item name="android:navigationBarColor">@color/black_matte</item>
+        <item name="materialButtonStyle">@style/Widget.AtelierAI.Button</item>
+        <item name="textInputStyle">@style/Widget.AtelierAI.TextInputLayout</item>
+    </style>
+
+
+    <style name="Widget.AtelierAI.Button" parent="Widget.Material3.Button">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearance.AtelierAI.Button</item>
+        <item name="backgroundTint">@color/button_container_color</item>
+        <item name="android:textColor">@color/button_text_color</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="ShapeAppearance.AtelierAI.Button" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerSize">0dp</item>
+    </style>
+
+
+    <style name="Widget.AtelierAI.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/ivory_soft</item>
+        <item name="hintTextColor">@color/ivory_soft</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="endIconTint">@color/white</item>
+        <item name="boxCornerRadiusTopStart">2dp</item>
+        <item name="boxCornerRadiusTopEnd">2dp</item>
+        <item name="boxCornerRadiusBottomStart">2dp</item>
+        <item name="boxCornerRadiusBottomEnd">2dp</item>
+    </style>
+
+</resources>

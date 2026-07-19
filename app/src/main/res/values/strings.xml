@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuraApp</string>
+
+    <!-- Marca / Titulares editoriales -->
+    <string name="brand_title">Radiante y Bella</string>
+    <string name="brand_subtitle">CONSULTORÍA DE ESTILO PERSONAL</string>
+    <string name="login_headline">INICIAR SESIÓN</string>
+    <string name="welcome_headline">BIENVENIDA</string>
+
+    <!-- Login -->
+    <string name="label_email">Correo electrónico</string>
+    <string name="placeholder_email">tu@correo.com</string>
+    <string name="label_password">Contraseña</string>
+    <string name="placeholder_password">Ingresa tu contraseña</string>
+    <string name="cd_toggle_password_visibility">Mostrar u ocultar contraseña</string>
+    <string name="button_login">INGRESAR</string>
+
+    <!-- Validaciones -->
+    <string name="error_empty_fields">Por favor completa todos los campos.</string>
+    <string name="error_invalid_email">El formato del correo electrónico no es válido.</string>
+    <string name="error_invalid_credentials">Usuario o contraseña incorrectos.</string>
+
+    <!-- Bienvenida -->
+    <string name="welcome_message">Bienvenida a tu experiencia de estilo personalizada.</string>
+    <string name="welcome_message_personalized">Bienvenida, %1$s</string>
+    <string name="welcome_description">Nuestro asistente de inteligencia artificial analiza tu silueta, tono de piel y preferencias para recomendarte prendas, accesorios y peinados a la medida de tu identidad. Escanea, descubre y transforma tu estilo con la precisión de la alta costura.</string>
+    <string name="cd_scan_frame">Visor de escaneo de prendas y peinados</string>
+    <string name="iniciar_asistente_ai">INICIAR ASISTENTE AI</string>
+</resources>
