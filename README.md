@@ -3,7 +3,14 @@
 ## 📌 Objetivo
 
 Se realizaron las modificaciones necesarias para reemplazar las pantallas implementadas mediante **Activities** por **Fragments**, manteniendo exactamente el mismo funcionamiento de la aplicación para el usuario.
+# 👨‍💻 Autor
 
+**Aura Nicte-Ha Pech Reyes**
+
+
+Diplomado en Desarrollo de Aplicaciones Móviles
+
+2026
 ---
 
 # ✅ Funcionalidades Conservadas
